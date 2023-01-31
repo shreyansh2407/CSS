@@ -1,0 +1,23 @@
+#bg{
+    /*The background-image property sets one or more background images for an element.*/
+    background-image: url("photographer.jpg"); /* The image used */
+
+
+    /*The background-color property sets the background color of an element.*/
+    background-color: #cccccc; /* Used if the image is unavailable */
+
+
+    height: 500px; /* You must set a specified height */
+
+
+    /*The background-position property sets the starting position of a background image.*/
+    background-position: center; /* Center the image */
+
+
+    /*The background-repeat property sets if/how a background image will be repeated.*/
+    background-repeat: no-repeat; /* Do not repeat the image */
+
+    
+    /*The background-size property specifies the size of the background images.*/
+    background-size: cover; /* Resize the background image to cover the entire container */
+}
