@@ -1,0 +1,26 @@
+/* ----------------------------------CSS BORDERS-------------------------------- */
+/* The CSS border properties allow you to specify the style, width, and color of an element's border. */
+#border{
+
+    /* The border-style property specifies what kind of border to display */
+    /* Note: None of the OTHER CSS border properties (which you will learn more about in the next chapters) will have ANY effect unless the border-style property is set! */
+    border-style: solid;
+
+
+    /* The border-width property sets the width of an element's four borders. This property can have from one to four values. */
+    border-width: 5px;
+
+
+    /* The border-color property sets the color of an element's four borders. This property can have from one to four values. */
+    border-color:aqua;
+
+
+    /* The border-radius property defines the radius of the element's corners. */
+    border-radius: 50px;
+}
+/* The CSS height and width properties are used to set the height and width of an element.
+
+The CSS max-width property is used to set the maximum width of an element. */
+
+/* Note: Remember that the height and width properties do not include padding, borders, or margins! They set the height/width of the area inside the padding, border, and margin of the element! */
+
