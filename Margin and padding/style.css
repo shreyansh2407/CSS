@@ -1,0 +1,11 @@
+.div1{
+    border-style:solid;
+    border-width: 2px;
+    border-color: aqua;
+    /* Padding is used to create space around an element's content, inside of any defined borders.
+    Note: Negative values are not allowed. */
+    padding:60px 50px;
+}
+body{
+    border:2px dashed red;
+}
